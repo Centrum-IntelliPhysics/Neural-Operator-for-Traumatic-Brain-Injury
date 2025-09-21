@@ -76,7 +76,7 @@ Full Dataset is available [here](http://www.nitrc.org/projects/bbir). The prepro
 - **Demographic encoding**: Age, sex, brain volume, scan direction, frequency  
 - **Positional encoding**: 3D spatial coordinates [x, y, z] for spatial awareness  
 
-<img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/62b833bc-d4f3-47e7-9812-89d02805e4f0" />
+<img width="900" height="600" alt="Image" src="https://github.com/user-attachments/assets/62b833bc-d4f3-47e7-9812-89d02805e4f0" />
 
 ---
 
