@@ -44,8 +44,6 @@ Our experiments demonstrate significant computational speedups while preserving 
 ### Multi-Grid FNO (MG-FNO)
 Best-performing architecture. Partitions the input domain into non-overlapping patches [20, 20, 22] with global context integration, enabling both local fine-grained and global long-range dependency modeling.  
 
-[**Figure Placeholder: MG-FNO Architecture Diagram**]
-
 ### Factorized FNO (F-FNO)
 Factorizes spectral convolution into one-dimensional operations along each spatial axis, reducing computational cost by over two orders of magnitude while retaining accuracy.  
 
