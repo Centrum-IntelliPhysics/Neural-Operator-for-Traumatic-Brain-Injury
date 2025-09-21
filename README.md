@@ -1,11 +1,8 @@
 # Benchmarking Neural Operators for Biomechanical Modeling of Traumatic Brain Injury
 
 **Authors:**  
-Anusha Agarwal¹'², Dibakar Roy Sarkar², and Somdatta Goswami²  
-
-¹Thomas Jefferson High School for Science and Technology  
-²Johns Hopkins Whiting School of Engineering  
-
+Anusha Agarwal, [Dibakar Roy Sarkar](https://scholar.google.com/citations?user=Sz4nHdYAAAAJ&hl=en), and [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en)
+ 
 ---
 
 ## Abstract
@@ -60,11 +57,11 @@ Uses spectral convolution layers in the Fourier domain to capture global depende
 ### DeepONet
 Employs branch-trunk architecture with separate networks for anatomical features and spatial coordinates, enabling efficient functional mapping.  
 
-[**Figure Placeholder: Architecture comparison diagram**]
-
 ---
 
 ## Dataset
+
+Full Dataset is available [here](http://www.nitrc.org/projects/bbir). The preprocessed data used in the paper is available [here](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/droysar1_jh_edu/EgexIiglwpJNuC1-f5aZlM4BDI6e7GXewHoi7d9VBfA6hQ?e=j1pZ7q)
 
 ### Brain Biomechanics Imaging Repository
 - **Source**: Washington University in St. Louis (WUSTL) MRE dataset  
@@ -81,7 +78,6 @@ Employs branch-trunk architecture with separate networks for anatomical features
 - **Demographic encoding**: Age, sex, brain volume, scan direction, frequency  
 - **Positional encoding**: 3D spatial coordinates [x, y, z] for spatial awareness  
 
-[**Figure Placeholder: Dataset visualization showing T1 MRI, brain masks, and displacement fields**]
 
 ---
 
