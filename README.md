@@ -37,8 +37,6 @@ Our experiments demonstrate significant computational speedups while preserving 
 - **DeepONet offered fastest inference** but reduced fidelity in high-gradient regions  
 - **All models showed strong dependence on spatial information** such as voxel position  
 
-[**Figure Placeholder: Performance comparison across models**]
-
 ---
 
 ## Architecture Overview
@@ -78,6 +76,7 @@ Full Dataset is available [here](http://www.nitrc.org/projects/bbir). The prepro
 - **Demographic encoding**: Age, sex, brain volume, scan direction, frequency  
 - **Positional encoding**: 3D spatial coordinates [x, y, z] for spatial awareness  
 
+<img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/62b833bc-d4f3-47e7-9812-89d02805e4f0" />
 
 ---
 
