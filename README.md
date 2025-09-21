@@ -86,3 +86,17 @@ Full Dataset is available [here](http://www.nitrc.org/projects/bbir). The prepro
 git clone https://github.com/[username]/neural-operators-tbi-benchmark.git
 cd neural-operators-tbi-benchmark
 pip install -r requirements.txt
+
+```
+
+## Citation
+
+If you use this code or dataset for your research, please cite our paper:
+
+@article{agarwal2025benchmarking,
+  title={Benchmarking Neural Operators for Biomechanical Modeling of Traumatic Brain Injury},
+  author={Agarwal, Anusha and Sarkar, Dibakar Roy and Goswami, Somdatta},
+  journal={arXiv preprint arXiv:2025.xxxxx},
+  year={2025}
+}
+
