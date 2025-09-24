@@ -1,4 +1,4 @@
-# Benchmarking Neural Operators for Biomechanical Modeling of Traumatic Brain Injury
+# Real-Time Prediction of Patient-Specific Brain Deformation Using Neural Operators: Toward Clinically Deployable Traumatic Brain Injury Models
 
 **Authors:**  
 Anusha Agarwal, [Dibakar Roy Sarkar](https://scholar.google.com/citations?user=Sz4nHdYAAAAJ&hl=en), and [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en)
