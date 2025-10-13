@@ -1,7 +1,7 @@
 # Real-Time Brain Biomechanics Prediction with Neural Operators: Toward Clinically Deployable Traumatic Brain Injury Models
 
 **Authors:**  
-Anusha Agarwal, [Dibakar Roy Sarkar](https://scholar.google.com/citations?user=Sz4nHdYAAAAJ&hl=en), and [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en)
+[Anusha Agarwal](https://scholar.google.com/citations?user=VLIkDnkAAAAJ&hl=en), [Dibakar Roy Sarkar](https://scholar.google.com/citations?user=Sz4nHdYAAAAJ&hl=en), and [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en)
  
 ---
 
