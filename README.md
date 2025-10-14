@@ -103,11 +103,12 @@ pip install -r requirements.txt
 If you use this code or dataset for your research, please cite our paper:
 
 ```bash
-@article{agarwal2025benchmarking,
-  title={Benchmarking Neural Operators for Biomechanical Modeling of Traumatic Brain Injury},
+@article{agarwal2025real,
+  title={Real-Time Brain Biomechanics Prediction with Neural Operators: Toward Clinically Deployable Traumatic Brain Injury Models},
   author={Agarwal, Anusha and Sarkar, Dibakar Roy and Goswami, Somdatta},
-  journal={arXiv preprint arXiv:2025.xxxxx},
+  journal={arXiv preprint arXiv:2510.03248},
   year={2025}
 }
+
 ```
 
