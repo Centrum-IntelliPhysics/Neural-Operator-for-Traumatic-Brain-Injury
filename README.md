@@ -57,7 +57,16 @@ Employs branch-trunk architecture with separate networks for anatomical features
 
 ## Dataset
 
-Full Dataset is available [here](http://www.nitrc.org/projects/bbir). The preprocessed data used in the paper is available [here](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/droysar1_jh_edu/EgexIiglwpJNuC1-f5aZlM4BDI6e7GXewHoi7d9VBfA6hQ?e=j1pZ7q)
+@article{bayly2021mr,
+  title={MR imaging of human brain mechanics in vivo: new measurements to facilitate the development of computational models of brain injury},
+  author={Bayly, Philip V and Alshareef, Ahmed and Knutsen, Andrew K and Upadhyay, Kshitiz and Okamoto, Ruth J and Carass, Aaron and Butman, John A and Pham, Dzung L and Prince, Jerry L and Ramesh, KT and others},
+  journal={Annals of biomedical engineering},
+  volume={49},
+  number={10},
+  pages={2677--2692},
+  year={2021},
+  publisher={Springer}
+}
 
 ### Brain Biomechanics Imaging Repository
 - **Source**: Washington University in St. Louis (WUSTL) MRE dataset  
