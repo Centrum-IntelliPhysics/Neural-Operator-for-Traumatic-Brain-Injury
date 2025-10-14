@@ -57,6 +57,7 @@ Employs branch-trunk architecture with separate networks for anatomical features
 
 ## Dataset
 
+```bash
 @article{bayly2021mr,
   title={MR imaging of human brain mechanics in vivo: new measurements to facilitate the development of computational models of brain injury},
   author={Bayly, Philip V and Alshareef, Ahmed and Knutsen, Andrew K and Upadhyay, Kshitiz and Okamoto, Ruth J and Carass, Aaron and Butman, John A and Pham, Dzung L and Prince, Jerry L and Ramesh, KT and others},
@@ -67,6 +68,7 @@ Employs branch-trunk architecture with separate networks for anatomical features
   year={2021},
   publisher={Springer}
 }
+```
 
 ### Brain Biomechanics Imaging Repository
 - **Source**: Washington University in St. Louis (WUSTL) MRE dataset  
